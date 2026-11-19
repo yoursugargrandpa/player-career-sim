@@ -30,7 +30,8 @@
 - [x] 確認 GitHub 專案預定公開，名稱為 `player-career-sim`。
 - [x] 準備 GitHub Pages 專案介紹首頁與 GitHub Actions 部署流程。
 - [ ] 尚未開始遊戲本體製作；目前沒有可玩的遊戲版本。
-- [ ] 尚未建立 GitHub 遠端倉庫或完成首次發布；需要完成 GitHub 連線。
+- [x] 已建立公開 GitHub 倉庫並推送第一筆 commit 至 `main`。
+- [ ] Pages 尚未啟用；首次 GitHub Actions 部署失敗，需先在倉庫設定 Pages 來源。
 - [ ] 尚未選定遊戲引擎、首發聯賽清單或實際球隊資料來源。
 
 ### 階段 1：定稿規格與技術驗證
@@ -79,10 +80,11 @@
 
 ### 階段 6：專案網站與發佈流程
 
-- [ ] 建立公開 GitHub 專案 `player-career-sim`，整理原始碼、設計文件與版本歷程。
+- [x] 建立公開 GitHub 專案 `player-career-sim`，整理原始碼、設計文件與版本歷程。
 - [x] 在本地建立 GitHub Actions Pages 工作流程。
 - [x] 在本地建立專案介紹首頁和可由 Jekyll 轉換的規劃文件頁面。
-- [ ] 推送到 GitHub，啟用 Pages 並確認首次部署成功。
+- [x] 推送初始專案版本至 GitHub `main` 分支。
+- [ ] 啟用 Pages 並確認 GitHub Actions 首次部署成功。
 - [x] 明確說明 Pages 網站展示的是專案文件；Windows 遊戲本體另以桌面建置檔發佈。
 
 ## 待確認事項
